@@ -1,2 +1,2 @@
-# research
-Hosts research project for papers
+# Research project
+Hosts code for research papers
